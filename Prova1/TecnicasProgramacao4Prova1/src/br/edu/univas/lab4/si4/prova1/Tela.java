@@ -21,6 +21,8 @@ public class Tela extends JFrame{
 		
 		add(getPanelButtons(), BorderLayout.WEST);
 		add(getPanelInfo(), BorderLayout.CENTER);
+		
+		pack();
 	
 	}
 	
