@@ -56,6 +56,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 				}
 			});
 		}
@@ -70,6 +71,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 
 				}
 			});
@@ -85,6 +87,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 
 				}
 			});
@@ -100,6 +103,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 
 				}
 			});
@@ -115,6 +119,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 
 				}
 			});
@@ -130,6 +135,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 
 				}
 			});
@@ -145,6 +151,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 
 				}
 			});
@@ -160,6 +167,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 
 				}
 			});
@@ -175,6 +183,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 
 				}
 			});
@@ -190,6 +199,7 @@ public class PanelButtons extends JPanel {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					JOptionPane.showMessageDialog(null, "Eu sou reponsavel pelo meu futuro");
+					System.out.println("Eu sou reponsavel pelo meu futuro!");
 
 				}
 			});
