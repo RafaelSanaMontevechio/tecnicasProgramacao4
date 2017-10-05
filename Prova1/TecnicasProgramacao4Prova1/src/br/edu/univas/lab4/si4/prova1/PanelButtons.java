@@ -24,6 +24,7 @@ public class PanelButtons extends JPanel {
 	private JButton bt9;
 	private JButton bt10;
 
+	@SuppressWarnings("static-access")
 	public PanelButtons() {
 		setBorder(new EmptyBorder(10, 10, 10, 10));
 		setPreferredSize(new Dimension(100, 100));

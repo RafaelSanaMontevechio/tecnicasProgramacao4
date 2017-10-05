@@ -26,8 +26,6 @@ public class Tela extends JFrame{
 	
 	}
 	
-	
-
 	public PanelButtons getPanelButtons() {
 		if(panelButtons == null) {}
 		panelButtons = new PanelButtons();

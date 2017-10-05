@@ -36,8 +36,9 @@ public class PanelInfo extends JPanel {
 	private GridBagConstraints scrollConstraints;
 
 	String[] nomes = { "Nome", "CPF", "E-mail" };
-	Object[][] data = { { "Joaão", "111.111.111-11", "joao@gmail.com", "Maria", "222.222.222-22", "maria@gmail.com",
-			"José", "333.333.333-33", "joao@gmail.com" } };
+	Object[][] data = { { "Joaão", "111.111.111-11", "joao@gmail.com"},
+			{ "Maria", "222.222.222-22", "maria@gmail.com"},
+			{"José", "333.333.333-33", "joao@gmail.com" } };
 
 	public PanelInfo() {
 		addComponents();
@@ -94,7 +95,7 @@ public class PanelInfo extends JPanel {
 				
 				@Override
 				public void actionPerformed(ActionEvent e) {
-					JOptionPane.showMessageDialog(null, "Salvou");
+					JOptionPane.showMessageDialog(null, "Salvou!!!");
 					
 				}
 			});
